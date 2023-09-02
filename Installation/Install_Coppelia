@@ -1,0 +1,8 @@
+wget -P /tmp https://coppeliarobotics.com/files/CoppeliaSim_Edu_V4_1_0_Ubuntu16_04.tar.xz
+cd /tmp && tar -xvf CoppeliaSim_Edu_V4_1_0_Ubuntu16_04.tar.xz
+mv CoppeliaSim_Edu_V4_1_0_Ubuntu16_04 ~/
+
+echo 'export COPPELIASIM_ROOT_DIR="$HOME/CoppeliaSim_Edu_V4_1_0_Ubuntu16_04"' >> ~/.bashrc && source ~/.bashrc
+echo 'alias coppelia="$COPPELIASIM_ROOT_DIR/coppeliaSim.sh"' >> ~/.bashrc && source ~/.bashrc
+
+coppelia
