@@ -7,3 +7,6 @@ sudo apt update
 sudo apt install ros-noetic-desktop-full
 
 source /opt/ros/noetic/setup.bash
+
+echo "source /opt/ros/noetic/setup.bash" >> ~/.bashrc
+source ~/.bashrc
