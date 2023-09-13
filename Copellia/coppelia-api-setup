@@ -8,4 +8,4 @@ cp     CoppeliaSim_Edu_V4_5_1_rev4_Ubuntu20_04/programming/legacyRemoteApi/remot
 ""
 
 ""
-# start coppeliasim simulation & run test_connection.py
+# start coppeliasim simulation & run test_connection.py - this will return available object in the environment
