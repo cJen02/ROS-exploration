@@ -1,7 +1,7 @@
 # ROS-exploration
 
 ### Install Tools:
-- [Defaulr Setup](http://wiki.ros.org/noetic/Installation/Ubuntu)
+- [Default Setup](http://wiki.ros.org/noetic/Installation/Ubuntu)
 - [Two Line Setup](http://wiki.ros.org/ROS/Installation/TwoLineInstall/)
 - 
 - [Install Gazebo](https://classic.gazebosim.org/tutorials?cat=install)
