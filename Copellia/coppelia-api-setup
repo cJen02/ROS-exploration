@@ -1,4 +1,4 @@
-
+mkdir Desktop/Project/api/
 
 cp     CoppeliaSim_Edu_V4_5_1_rev4_Ubuntu20_04/programming/legacyRemoteApi/remoteApiBindings/python/python/*                       Desktop/Project/api/
 cp     CoppeliaSim_Edu_V4_5_1_rev4_Ubuntu20_04/programming/legacyRemoteApi/remoteApiBindings/lib/lib/Ubuntu20_04/remoteApi.so      Desktop/Project/api/remoteApi.so
